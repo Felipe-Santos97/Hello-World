@@ -1,0 +1,31 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../fotos/tartaruga.jpg);
+}
+section{
+    background: cadetblue;
+    width: 620px;
+    height: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    overflow: auto;
+}
+section h1{
+    text-align: center;
+    padding: 5px;
+    background: slategray;
+}
+.btn{
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    background: rgb(16, 143, 202);
+    margin:12px;
+    cursor: pointer;
+}
