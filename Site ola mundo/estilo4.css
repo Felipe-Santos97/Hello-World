@@ -6,6 +6,7 @@
 body{
     background-image: url(tartaruga.jpg);
 }
+
 section{
     background: cadetblue;
     width: 750px;
@@ -20,6 +21,9 @@ section h1{
     text-align: center;
     padding: 5px;
     background: slategray;
+}
+h3{
+    margin: 15px 10px;
 }
 .btn{
     padding: 5px;
@@ -36,4 +40,21 @@ p{
 ul{
     margin-top: 20px;
     margin-left: 30px;
+}
+
+table th, tr, td{
+   padding: 4px;
+   border: 0.8px solid black;
+   text-align: center;   
+}
+table{
+    border-collapse: collapse;
+    margin: 20px 10px;
+}
+table th{
+    background-color: rgb(184, 184, 184);
+}
+p{
+   font-size: 17px;
+   text-indent: 17px;
 }
