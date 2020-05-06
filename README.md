@@ -17,10 +17,11 @@ acesse meu perfil no GitHub [aqui](https://github.com/Felipe-Santos97)
 ***trecho de código:*** `print("Ola, Mundo");`
 
 ***
+***checkbox:**
 - [x] titulos
 - [x] negrito
-- [x] lista de tarefas
 - [x] tabela
 - [x] lista
 - [x] link
 - [x] trecho de código
+- [x] checkbox
