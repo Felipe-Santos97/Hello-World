@@ -6,18 +6,18 @@ Nome | Sexo | Cidade
 joao | M | SP
 maria| F | RJ
 ***
-***lista:***
+**lista:**
 * lorem
 * ipsun
 * dolor
 ***
-***link:***
+**link:**
 acesse meu perfil no GitHub [aqui](https://github.com/Felipe-Santos97)
 ***
-***trecho de código:*** `print("Ola, Mundo");`
+**trecho de código:** `print("Ola, Mundo");`
 
 ***
-***checkbox:***
+**checkbox:**
 - [x] titulos
 - [x] negrito
 - [x] tabela
